@@ -12,7 +12,9 @@
         "@typescript-eslint/adjacent-overload-signatures": "off",
         "no-self-assign": "off",
         "no-useless-escape": "off",
-        "accessor-pairs": "off"
+        "accessor-pairs": "off",
+        "prettier/prettier": 0,
+        "camelcase":"off"
     },
     "env": {
         "vitest-globals/env": true
