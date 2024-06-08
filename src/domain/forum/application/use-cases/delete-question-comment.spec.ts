@@ -1,4 +1,3 @@
-import { InMemoryQuestionsRepository } from "test/repositories/in-memory-questions-repository";
 import { InMemoryQuestionCommentsRepository } from "test/repositories/in-memory-question-comments-repository";
 import { DeleteQuestionCommentUseCase } from "./delete-question-comment";
 import { makeQuestionComment } from "test/factories/make-question-comments";
